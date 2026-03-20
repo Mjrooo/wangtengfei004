@@ -1,0 +1,8 @@
+{
+  "name": "粮智云 - AI大模型粮食全产业链管理系统",
+  "description": "全面覆盖粮食收购、仓储、销售、种子经营及装卸搬运的AI智能化管理平台。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
